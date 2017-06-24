@@ -1,2 +1,2 @@
 # iitbaba-dev
-Help people build there ideas
+Help people build their ideas.
